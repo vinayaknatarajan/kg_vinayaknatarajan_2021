@@ -8,9 +8,6 @@ def fun(s,t):
     else:
         return False
 
-#a = fun(s1,s2)
-#print(a)
-
 if __name__ == "__main__":
     s1 = sys.argv[1]
     s2 = sys.argv[2]
